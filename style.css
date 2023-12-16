@@ -1,6 +1,6 @@
 header {display: block; height: 80px; margin-left: 2rem; margin-top: 0; margin-bottom: 0; background-color: navy; font-size: medium;color: white;}
 H1 { color: white; margin: 6px ; padding-bottom: 50px;}
-ul {list-style-type: none; margin-left: 2rem; padding: 0; overflow: hidden; background-color: gray; width:}
+ul {list-style-type: none; margin-left: 2rem; padding: 0; overflow: hidden; background-color: gray;}
 li {float: left;}
 a {display: block; color: navy; text-align: center; padding: 14px 16px; text-decoration: none;}
 /* Change the link to color gray and text colot to dark red on hover*/
@@ -9,8 +9,8 @@ a {display: block; color: navy; text-align: center; padding: 14px 16px; text-dec
 .intro {margin: 2rem;}
 img {margin: 2rem;}
 h2 {margin: 2rem; font-size: large; color: navy;}
-h3 {margin: 2rem; font-size: large; color:navy:}
-p {margin: 2rem; width:}
+h3 {margin: 2rem; font-size: large; color:navy;}
+p {margin: 2rem;}
 ul.why {background-color: white; list-style-type: circle;}
 li.bullet {float:none; list-style-type: circle;}
 .image-row {display: flex; justify-content: space-between; background-color: navy; color:white; text-wrap: wrap; padding: 0; text-align: center; margin: 2rem;}
